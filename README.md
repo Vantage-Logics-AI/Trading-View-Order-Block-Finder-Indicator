@@ -230,7 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Professional Smart Money Concepts methodology for serious traders.
 
-*Silent Luxury. Invisible Corporate. Data-Over-Hype.*
+*Institutional-Grade Trading System.*
 
 ---
 
